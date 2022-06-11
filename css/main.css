@@ -1127,7 +1127,7 @@ h1, h2, h3 ,h4 ,h5{
     position: relative;
 }
 .connect_cards{
-    display: flex;
+    display: block;
     justify-content: space-between;
     position: absolute;
     top:-50px;
